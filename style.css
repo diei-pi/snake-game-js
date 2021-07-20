@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+.canvas-container {
+    width: 100%;
+    text-align:center;
+ }
+.canvas {
+    display: inline;
+    width: 30%;
+}
